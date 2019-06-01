@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e162017-4d98-41db-91be-2efccb7a5f74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/section4/15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section5/16.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -25,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/section4/15.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="47" column="70" lean-forward="true" selection-start-line="47" selection-start-column="70" selection-end-line="47" selection-end-column="70" />
+            <state relative-caret-position="133">
+              <caret line="54" selection-start-line="54" selection-end-line="55" />
               <folding>
                 <element signature="e#1898#1903#0" expanded="true" />
               </folding>
@@ -37,10 +37,15 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/section5/16.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/section2/7.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="808">
+            <state relative-caret-position="885">
               <caret line="59" column="7" selection-start-line="59" selection-start-column="7" selection-end-line="59" selection-end-column="7" />
             </state>
           </provider>
@@ -98,6 +103,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -126,11 +132,15 @@
               <item name="udemy_bootstrap4" type="462c0819:PsiDirectoryNode" />
               <item name="section4" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="udemy_bootstrap4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="udemy_bootstrap4" type="462c0819:PsiDirectoryNode" />
+              <item name="section5" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -194,17 +204,18 @@
       <updated>1558987388129</updated>
       <workItem from="1558987389435" duration="7636000" />
       <workItem from="1559404127764" duration="2194000" />
+      <workItem from="1559407332654" duration="530000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9830000" />
+    <option name="totallyTimeSpent" value="10360000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1855" height="977" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.11777535" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11777535" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -249,9 +260,7 @@
     <entry file="file://$PROJECT_DIR$/section3/bower_components/bootstrap/dist/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/section4/12.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/section4/12.html" />
     <entry file="file://$PROJECT_DIR$/section2/6.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
@@ -261,7 +270,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/section2/7.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="808">
+        <state relative-caret-position="885">
           <caret line="59" column="7" selection-start-line="59" selection-start-column="7" selection-end-line="59" selection-end-column="7" />
         </state>
       </provider>
@@ -285,13 +294,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/section4/15.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="47" column="70" lean-forward="true" selection-start-line="47" selection-start-column="70" selection-end-line="47" selection-end-column="70" />
+        <state relative-caret-position="133">
+          <caret line="54" selection-start-line="54" selection-end-line="55" />
           <folding>
             <element signature="e#1898#1903#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section5/16.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
